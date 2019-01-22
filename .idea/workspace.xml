@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c355585-cb56-49d1-897d-0f041721dea6" name="Default Changelist" comment="" />
+    <list default="true" id="9c355585-cb56-49d1-897d-0f041721dea6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/canny_edge_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/canny_edge_detector.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/canny_edge_detector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="360">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
                 <element signature="e#2#20#0" expanded="true" />
               </folding>
@@ -107,7 +109,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.canny_edge_detector">
+    <configuration name="canny_edge_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bioeng223b" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/canny_edge_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="import_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bioeng223b" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.canny_edge_detector" />
         <item itemvalue="Python.import_images" />
       </list>
     </recent_temporary>
@@ -202,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/canny_edge_detector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="360">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
             <element signature="e#2#20#0" expanded="true" />
           </folding>
