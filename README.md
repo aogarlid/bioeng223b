@@ -7,7 +7,10 @@ Bioengineering m223b: CT needle ID
     * scikit-image
 
 * import_images.py
+    * file i/o to load images
+        * using imread_collection from skimage to load image collection of .jpg 
+    * matrix manipulation
+    * standardization
     * convert images to gray-scale from rgb
-    * file i/o to load images, matrix manipulation, standardization
 
 
