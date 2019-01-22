@@ -1,15 +1,10 @@
 
 from skimage.color import rgb2gray
 from skimage.io import imread_collection
-from skimage import data
-
 import numpy as np
-
 from skimage.transform import (hough_line, hough_line_peaks,
                                probabilistic_hough_line)
 from skimage.feature import canny
-from skimage import data
-
 import matplotlib.pyplot as plt
 from matplotlib import cm
 
@@ -21,7 +16,7 @@ col_dir = 'NeedleImages/*.jpg'
 col = imread_collection(col_dir)
 
 # select one image from collection
-im = col[1]
+im = col[4]
 img = rgb2gray(im)
 
 # Classic straight-line Hough transform
@@ -57,7 +52,6 @@ plt.tight_layout()
 plt.show()
 
 # Line finding using the Probabilistic Hough Transform
-img = data.camera()
 edges = canny(img, 2, 1, 25)
 lines = probabilistic_hough_line(edges, threshold=10, line_length=5,
                                  line_gap=3)
