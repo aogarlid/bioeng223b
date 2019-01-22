@@ -14,19 +14,19 @@ col_dir = 'NeedleImages/*.jpg'
 # creating a collection with the available images
 col = imread_collection(col_dir)
 
-img = col[1]
-img_gray = rgb2gray(img)
+im = col[1]
+img = rgb2gray(im)
 
 
 # Compute the Canny filter for two values of sigma
-edges1 = feature.canny(img_gray)
-edges2 = feature.canny(img_gray, sigma=3)
+edges1 = feature.canny(img)
+edges2 = feature.canny(img, sigma=3)
 
 # display results
 fig, (ax1, ax2, ax3) = plt.subplots(nrows=1, ncols=3, figsize=(8, 3),
                                     sharex=True, sharey=True)
 
-ax1.imshow(im, cmap=plt.cm.gray)
+ax1.imshow(img, cmap=plt.cm.gray)
 ax1.axis('off')
 ax1.set_title('noisy image', fontsize=20)
 
