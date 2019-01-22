@@ -14,7 +14,7 @@ col_dir = 'NeedleImages/*.jpg'
 # creating a collection with the available images
 col = imread_collection(col_dir)
 
-im = col[1]
+im = col[4]
 img = rgb2gray(im)
 
 
@@ -28,7 +28,7 @@ fig, (ax1, ax2, ax3) = plt.subplots(nrows=1, ncols=3, figsize=(8, 3),
 
 ax1.imshow(img, cmap=plt.cm.gray)
 ax1.axis('off')
-ax1.set_title('noisy image', fontsize=20)
+ax1.set_title('image', fontsize=20)
 
 ax2.imshow(edges1, cmap=plt.cm.gray)
 ax2.axis('off')
