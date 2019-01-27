@@ -6,7 +6,6 @@ import_images.py
 
 from skimage.color import rgb2gray
 from skimage.io import imread_collection
-from skimage import data
 
 # set NeedleImages collection path
 col_dir = 'NeedleImages/*.jpg'
