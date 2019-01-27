@@ -1,7 +1,6 @@
 
 from skimage.color import rgb2gray
 from skimage.io import imread_collection
-from skimage import data
 import numpy as np
 import matplotlib.pyplot as plt
 
