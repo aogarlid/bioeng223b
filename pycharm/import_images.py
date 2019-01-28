@@ -11,9 +11,6 @@ from skimage.io import imread_collection
 col_dir = 'NeedleImages/*.jpg'
 # creating a collection with the available images
 col = imread_collection(col_dir)
-
-im = col[1]
+# select one image for analysis
+im = col[4]
 img = rgb2gray(im)
-
-
-
