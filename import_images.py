@@ -16,8 +16,8 @@ greyscale = []
 # creating a collection with the available images
 col = imread_collection(os.path.join(dir_name, '*.jpg'))
 # select one image for analysis
-im = col[14]
-
+im = col[140]
+# determine image type and shape
 print(type(im))
 print(im.shape)
 
