@@ -33,7 +33,7 @@ Order,External_ID,Label
 31,19746.jpg,yes
 32,19645.jpg,yes
 33,19554.jpg,yes
-34,19553.jpg,no
+34,19553.jpg,yes
 35,19552.jpg,yes
 36,19538.jpg,no
 37,19448.jpg,yes
@@ -52,9 +52,9 @@ Order,External_ID,Label
 50,19082.jpg,no
 51,19047.jpg,no
 52,18954.jpg,yes
-53,18939.jpg,no
+53,18939.jpg,yes
 54,18938.jpg,yes
-55,18935.jpg,no
+55,18935.jpg,yes
 56,18932.jpg,yes
 57,18897.jpg,no
 58,18895.jpg,no
@@ -120,17 +120,17 @@ Order,External_ID,Label
 118,16811.jpg,yes
 119,16685.jpg,yes
 120,16645.jpg,yes
-121,16644.jpg,no
+121,16644.jpg,yes
 122,16639.jpg,yes
 123,16636.jpg,yes
 124,16635.jpg,yes
 125,16528.jpg,yes
 126,16392.jpg,no
 127,16380.jpg,yes
-128,16332.jpg,no
+128,16332.jpg,yes
 129,16331.jpg,yes
 130,16330.jpg,yes
-131,16328.jpg,no
+131,16328.jpg,yes
 132,16184.jpg,yes
 133,16180.jpg,yes
 134,16179.jpg,yes
@@ -149,7 +149,7 @@ Order,External_ID,Label
 147,15794.jpg,yes
 148,15756.jpg,yes
 149,15755.jpg,yes
-150,15754.jpg,no
+150,15754.jpg,yes
 151,15730.jpg,no
 152,15698.jpg,no
 153,15631.jpg,yes
@@ -166,7 +166,7 @@ Order,External_ID,Label
 164,15057.jpg,yes
 165,15035.jpg,yes
 166,15034.jpg,yes
-167,15027.jpg,no
+167,15027.jpg,yes
 168,15007.jpg,no
 169,14948.jpg,no
 170,14888.jpg,yes
@@ -178,7 +178,7 @@ Order,External_ID,Label
 176,14717.jpg,yes
 177,14672.jpg,yes
 178,14664.jpg,no
-179,14663.jpg,no
+179,14663.jpg,yes
 180,14551.jpg,yes
 181,14522.jpg,no
 182,14503.jpg,yes
@@ -186,7 +186,7 @@ Order,External_ID,Label
 184,14423.jpg,yes
 185,14399.jpg,yes
 186,14347.jpg,yes
-187,14345.jpg,no
+187,14345.jpg,yes
 188,14227.jpg,yes
 189,14226.jpg,no
 190,14181.jpg,yes
@@ -196,7 +196,7 @@ Order,External_ID,Label
 194,13866.jpg,no
 195,13841.jpg,yes
 196,13840.jpg,yes
-197,13835.jpg,no
+197,13835.jpg,yes
 198,13673.jpg,yes
 199,13671.jpg,yes
 200,13659.jpg,yes
@@ -216,7 +216,7 @@ Order,External_ID,Label
 214,13435.jpg,no
 215,13385.jpg,no
 216,13379.jpg,no
-217,13300.jpg,no
+217,13300.jpg,yes
 218,13188.jpg,yes
 219,13187.jpg,no
 220,13184.jpg,no
@@ -234,7 +234,7 @@ Order,External_ID,Label
 232,12901.jpg,yes
 233,12786.jpg,yes
 234,12785.jpg,yes
-235,12668.jpg,no
+235,12668.jpg,yes
 236,12660.jpg,no
 237,12659.jpg,no
 238,12655.jpg,yes
@@ -290,7 +290,7 @@ Order,External_ID,Label
 288,11159.jpg,yes
 289,11059.jpg,yes
 290,11015.jpg,yes
-291,10961.jpg,no
+291,10961.jpg,yes
 292,10945.jpg,yes
 293,10880.jpg,yes
 294,10855.jpg,yes
@@ -375,7 +375,7 @@ Order,External_ID,Label
 373,8072.jpg,no
 374,8056.jpg,no
 375,8049.jpg,no
-376,8023.jpg,no
+376,8023.jpg,yes
 377,7977.jpg,yes
 378,7976.jpg,yes
 379,7973.jpg,yes
