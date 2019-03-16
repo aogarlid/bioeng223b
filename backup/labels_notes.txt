@@ -1,5 +1,7 @@
 Dataset relabeling (Monday, Jan 28, 2019)
 
+422 yes vs 209 no (631 total)
+
  - updated order value (first column)
  - 1 image relabeled yes to no:
 	- 603	1367.jpg		no
