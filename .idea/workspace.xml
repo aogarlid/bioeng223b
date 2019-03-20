@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c355585-cb56-49d1-897d-0f041721dea6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/10831.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/10851.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/10945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/11759.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/11845.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/12060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/12655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/12908.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/13057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/13571.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/1443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/14551.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/14778.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/14782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/15554.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/16061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/16179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/16330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/17002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/17841.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/18932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/1928.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/20387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/2613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/3460.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/4214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/4837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/4964.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/4967.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/5321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/5645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/8273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/8718.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/8725.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images/8810.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,19 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preprocessing_utils-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,14 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing_utils-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing_utils-1.py" />
   </component>
 </project>
